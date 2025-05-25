@@ -1,0 +1,6 @@
+[submodule "comment-service"]
+	path = comment-service
+	url = https://github.com/raphaelsegalla/algacomments-comment-service.git
+[submodule "moderation-service"]
+	path = moderation-service
+	url = https://github.com/raphaelsegalla/algacomments-moderation-service.git
